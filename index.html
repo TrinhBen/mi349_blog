@@ -74,11 +74,13 @@ The player can try to escape, but the chances are low due to the hound's speed, 
 </table>
 </article>
 <h4>Email Signup</h4>
-<form>
-  <label for="email">Email:</label><br>
-  <input type="text" id="email" name="email"><br>
-  <br>
-  <input type="submit" value="Submit">
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
 </body>
 </html>
