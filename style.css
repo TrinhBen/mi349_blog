@@ -34,6 +34,7 @@ a {
 margin: 50px;
     padding: 20px;
     background: rgb(139, 124, 124);
+    color: #e3e3e3;
 }
 a:nth-of-type(2){
     color: #e02020;
