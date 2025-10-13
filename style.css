@@ -42,3 +42,7 @@ margin: 50px;
 form{
     display: flex;
 }
+.list{
+    display:flex;
+    background: rgb(139, 124, 124);
+}
