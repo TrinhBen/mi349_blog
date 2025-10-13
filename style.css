@@ -37,7 +37,7 @@ img{
 ul {
     display: flex;
     font-size: x-large;
-    align-items: center;
+text-align: center;
 }
 li{
     text-align: center;
