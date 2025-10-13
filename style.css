@@ -15,12 +15,14 @@ p {
     line-height: 1.4em;
 }
 #Blog {
-background-color: red;
+background-color: dimgray;
 }
 .blog-post{
 font-size: large;
+color: white;
 }
 .img-cont {
     background: grey;
     float: left;
+    margin-right: 20px;
 }
