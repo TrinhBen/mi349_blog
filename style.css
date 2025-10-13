@@ -30,10 +30,13 @@ ul {
     display: flex;
     font-size: x-large;
 }
-a {
-    position: sticky;
+nav{
+position: sticky;
     top:100px;
     left: 50px;
+}
+a {
+    
 margin: 50px;
     padding: 20px;
     background: rgb(139, 124, 124);
@@ -43,6 +46,8 @@ form{
     display: flex;
 }
 .list{
+    margin: 50px;
+    padding: 20px;
     display:flex;
     background: rgb(139, 124, 124);
 }
