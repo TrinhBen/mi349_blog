@@ -30,6 +30,10 @@ color: rgb(24, 24, 24);
     width: 50%;
       margin: 0 auto;
 }
+img{
+    width: 50%;
+      margin: 0 auto;
+}
 ul {
     display: flex;
     font-size: x-large;
