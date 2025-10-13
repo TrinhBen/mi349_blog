@@ -26,3 +26,9 @@ color: white;
     float: left;
     margin-right: 20px;
 }
+nav {
+    display: flex;
+    font-size: x-large;
+    margin: 20px;
+    padding: 20px;
+}
