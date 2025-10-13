@@ -8,6 +8,7 @@ body {
     padding: 40px;
     border-top: 10px solid;
 h1 {
+    text-align: center;
     font-size: 3em;
 margin: 0;
 }
@@ -25,6 +26,7 @@ color: white;
     background: grey;
     float: left;
     margin-right: 20px;
+    text-align: center;
 }
 ul {
     display: flex;
@@ -36,6 +38,7 @@ margin: 100px;
     top:100px;
     left: 50px;
     background: black;
+    text-align: center;
 }
 a {
     color: #e3e3e3;
