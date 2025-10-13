@@ -30,13 +30,6 @@ ul {
     display: flex;
     font-size: x-large;
 }
-aside {
-    flex: 5;
-    margin: 50px;
-    padding: 20px;
-    background: rgb(139, 124, 124);
-color: #e02020;
-}
 a {
 margin: 50px;
     padding: 20px;
