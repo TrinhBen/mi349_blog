@@ -34,9 +34,9 @@ nav{
 position: sticky;
     top:100px;
     left: 50px;
+    background: black;
 }
 a {
-    
 margin: 50px;
     padding: 20px;
     background: rgb(139, 124, 124);
@@ -46,8 +46,8 @@ form{
     display: flex;
 }
 .list{
-    margin: 50px;
-    padding: 20px;
+    margin: 100px;
+    padding: 100px;
     display:flex;
     background: rgb(139, 124, 124);
 }
