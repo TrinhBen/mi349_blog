@@ -26,16 +26,3 @@ color: white;
     float: left;
     margin-right: 20px;
 }
-tbody {
-    display: flex;
-    
-}
-thead {
-    display: flex;
-    margin: 20px;
-    padding: 20px;
-}
-tr {
-margin: 20px;
-    padding: 20px;
-}
