@@ -38,15 +38,12 @@ margin: 100;
     background: black;
 }
 a {
-margin: 50px;
-    padding: 20px;
-    background: rgb(139, 124, 124);
     color: #e3e3e3;
 }
 form{
     display: flex;
 }
-.list{
+#list{
     display:flex;
     background: rgb(139, 124, 124);
 }
