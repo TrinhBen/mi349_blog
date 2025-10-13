@@ -40,6 +40,9 @@ form{
     display: flex;
 }
 aside {
+    margin: 50px;
+    padding: 20px;
+    background: rgb(139, 124, 124);
 color: #e02020;
 flex: 3;
 }
