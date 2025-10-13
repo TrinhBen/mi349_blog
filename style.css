@@ -67,3 +67,7 @@ h3{
     font-size: xx-large;
     text-align: center;
 }
+table{
+    width: 50%;
+      margin: 0 auto;
+}
