@@ -33,6 +33,8 @@ color: rgb(24, 24, 24);
 ul {
     display: flex;
     font-size: x-large;
+}
+li{
     text-align: center;
 }
 nav{
