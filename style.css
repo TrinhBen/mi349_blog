@@ -28,11 +28,14 @@ color: white;
 }
 tbody {
     display: flex;
-    margin: 20px;
-    padding: 20px;
+    
 }
 thead {
     display: flex;
     margin: 20px;
+    padding: 20px;
+}
+tr {
+margin: 20px;
     padding: 20px;
 }
