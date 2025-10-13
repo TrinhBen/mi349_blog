@@ -33,7 +33,6 @@ color: rgb(24, 24, 24);
 img{
    display: block;
   margin: auto;
-  width: 50%;
 }
 ul {
     display: flex;
