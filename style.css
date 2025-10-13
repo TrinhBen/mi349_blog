@@ -36,9 +36,10 @@ margin: 50px;
     background: rgb(139, 124, 124);
     color: #e3e3e3;
 }
-a:nth-of-type(2){
-    color: #e02020;
+form{
+    display: flex;
 }
-a:nth-of-type(3){
-    color: #1e10e6;
+aside {
+color: #e02020;
+flex: 3;
 }
