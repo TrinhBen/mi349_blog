@@ -51,6 +51,8 @@ form{
     background-size: 2em;
 }
 .list{
+    background:rgb(131, 131, 131)
+    margin:20px;
     padding: 30px;
 }
 h3{
