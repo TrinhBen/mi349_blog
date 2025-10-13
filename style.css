@@ -31,7 +31,9 @@ color: rgb(24, 24, 24);
       margin: 0 auto;
 }
 img{
-    align-self: center;
+   display: block;
+  margin: auto;
+  width: 50%;
 }
 ul {
     display: flex;
