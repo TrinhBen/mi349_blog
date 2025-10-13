@@ -31,9 +31,9 @@ ul {
     font-size: x-large;
     
 }
-li {
+a {
 margin: 50px;
     padding: 20px;
-    background: rgb(34, 34, 34);
+    background: rgb(139, 124, 124);
     color: #e3e3e3;
 }
