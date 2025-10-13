@@ -48,3 +48,6 @@ form{
     display:flex;
     background: rgb(139, 124, 124);
 }
+.list{
+    padding: 20px;
+}
