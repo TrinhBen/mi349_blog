@@ -66,11 +66,14 @@ a {
 }
 form{
     display: flex;
+    text-align:center;
+    margin: 0 auto;
 }
 #list{
     display:flex;
     background: rgb(139, 124, 124);
     background-size: 2em;
+    width: 80%;
 }
 .list{
     padding: 30px;
