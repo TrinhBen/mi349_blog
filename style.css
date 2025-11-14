@@ -77,6 +77,7 @@ h3{
 table{
       margin: 0 auto;
 }
+/*
 @media screen and (min-width: 600px){
     form{
         display: flex;
@@ -87,3 +88,4 @@ table{
         background: #ececec;
     }
 }
+    */
