@@ -7,7 +7,7 @@ body {
     margin: 40px;
     padding: 40px;
     border-top: 30px solid;
-header h1 {
+h1 {
     text-align: center;
     font-size: 3em;
 margin: 0;
@@ -40,7 +40,6 @@ ul {
     font-size: x-large;
 }
 li{
-    text-align: center;
     display: inline-block;
     padding: 10px 20px;
 }
