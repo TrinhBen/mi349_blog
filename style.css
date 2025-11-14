@@ -82,7 +82,7 @@ table{
         display: flex;
     }
 }
-@media screen and (max-wdith: 1200px){
+@media screen and (max-width: 1200px){
     header {
         background: #465362;
     }
