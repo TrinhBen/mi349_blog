@@ -82,10 +82,10 @@ header{
     justify-content: space-between;
 }
 th{
-display: block;
+display: flex;
 }
 tr{
-display: block;
+display: flex;
 }
 
 @media screen and (min-width: 600px){
