@@ -38,6 +38,7 @@ img{
 ul {
     display: flex;
     font-size: x-large;
+    list-style-type: none;
 }
 li{
     display: inline-block;
@@ -77,7 +78,16 @@ h3{
 table{
       margin: 0 auto;
 }
-/*
+header{
+    justify-content: space-between;
+}
+th{
+display: inline-block;
+}
+tr{
+display: inline-block;
+}
+
 @media screen and (min-width: 600px){
     form{
         display: flex;
@@ -88,4 +98,3 @@ table{
         background: #ececec;
     }
 }
-    */
