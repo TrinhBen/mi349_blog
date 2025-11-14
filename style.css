@@ -102,8 +102,13 @@ padding: 20px;
         display: flex;
     }
 }
-@media screen and (max-width: 1200px){
-    header {
-        background: #ececec;
+@media (max-width: 767px) {
+     body {
+        font-size: 14px;
+      }
     }
-}
+@media (min-width: 768px) {
+     body {
+            font-size: 16px;
+        }
+    }
