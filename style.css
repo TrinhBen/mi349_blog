@@ -82,10 +82,10 @@ header{
     justify-content: space-between;
 }
 th{
-display: inline-block;
+display: block;
 }
 tr{
-display: inline-block;
+display: block;
 }
 
 @media screen and (min-width: 600px){
