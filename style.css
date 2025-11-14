@@ -82,7 +82,6 @@ header{
     justify-content: space-between;
 }
 th{
-display: flex;
 padding: 20px;
 }
 td{
