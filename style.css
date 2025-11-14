@@ -104,11 +104,11 @@ padding: 20px;
 }
 @media (max-width: 767px) {
      p {
-        font-size: 14px;
+        font-size: 16px;
       }
     }
 @media (min-width: 768px) {
      p {
-            font-size: 16px;
+            font-size: 18px;
         }
     }
